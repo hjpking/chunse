@@ -17,7 +17,7 @@ $config = array('dir' => '/data/chunse/');
 
 
 
-$limit = 1;
+$limit = 50;
 $start = 1;
 $end   = 376;
 
