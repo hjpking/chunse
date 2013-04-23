@@ -6,22 +6,24 @@
  * Time: 下午8:20
  * To change this template use File | Settings | File Templates.
  */
+set_time_limit(200);
 if(!defined('IN_DISCUZ')) {
 	exit('Access Denied');
 }
 
 require libfile('class/crawl');
 
-$config = array('dir' => '/data/m_data/agitation/');
+$config = array('dir' => '/data/chunse/');
 $crawl = new crawl_tools($config);
 
 
-$limit = 50;
+$limit = 1;
 $start = 1;
 $end   = 376;
 
 $url = 'http://www.456zy.com/list/?29-%d.html';
 
+//*
 for ($i = $start; $i < $end; $i = $i + $limit)
 {
     //$crawl = new crawl_tools($config);
@@ -34,20 +36,19 @@ for ($i = $start; $i < $end; $i = $i + $limit)
         //* 抓取漏抓的页面
         $fileName = $config['dir'].intToPath($ii).'index.html';
         if (file_exists(($fileName))) continue;
-        //*/
-
 
 	    $urlArray[$ii] = sprintf($url, $ii);
     }
-    //echo '<pre>';print_r($urlArray);continue;
+    //echo '<pre>';print_r($urlArray);exit;continue;
 
     //*抓取漏抓的页面
     if (empty ($urlArray)) continue;
-    //*/
+
 
     $crawl->crawlList($urlArray);
     unset ($crawl);
 }
+//*/
 
 function intToPath($id)
 {

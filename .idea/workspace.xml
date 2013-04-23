@@ -5,10 +5,11 @@
     <ignored path="chunse.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366719271953" ignored="false" />
-    <file path="/forum_test.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366724235810" ignored="false" />
+    <file path="/forum_test.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366725543718" ignored="false" />
     <file path="/forum.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366723508706" ignored="false" />
     <file path="/class_core.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366720937810" ignored="false" />
     <file path="/function_core.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366723678338" ignored="false" />
+    <file path="/class_crawl.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366725165491" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +32,8 @@
       <file leaf-file-name="forum_test.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/module/forum/forum_test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="19" selection-start="654" selection-end="654" vertical-scroll-proportion="0.51980793">
-              <folding>
-                <element signature="e#6#159#0" expanded="true" />
-              </folding>
+            <state line="36" column="44" selection-start="704" selection-end="713" vertical-scroll-proportion="0.5006002">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -42,7 +41,7 @@
       <file leaf-file-name="class_crawl.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/class/class_crawl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="169" selection-end="169" vertical-scroll-proportion="-5.12">
+            <state line="47" column="28" selection-start="1256" selection-end="1264" vertical-scroll-proportion="-8.52">
               <folding>
                 <element signature="e#6#168#0" expanded="true" />
               </folding>
@@ -454,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/class/class_crawl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="169" selection-end="169" vertical-scroll-proportion="-5.12">
+        <state line="47" column="28" selection-start="1256" selection-end="1264" vertical-scroll-proportion="-8.52">
           <folding>
             <element signature="e#6#168#0" expanded="true" />
           </folding>
@@ -463,10 +462,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/module/forum/forum_test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="19" selection-start="654" selection-end="654" vertical-scroll-proportion="0.51980793">
-          <folding>
-            <element signature="e#6#159#0" expanded="true" />
-          </folding>
+        <state line="36" column="44" selection-start="704" selection-end="713" vertical-scroll-proportion="0.5006002">
+          <folding />
         </state>
       </provider>
     </entry>

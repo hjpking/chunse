@@ -116,7 +116,7 @@ class crawl_tools
             if (!empty($content)) {
                 if ($this->isReturn) {
                     $return[] = $content;
-                } else {
+                } else {p($content);exit;
                     $this->writeContent($content, $key);
                 }
                 $content = '';unset ($content);
