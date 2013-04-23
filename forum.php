@@ -18,7 +18,7 @@ $discuz = & discuz_core::instance();
 
 $modarray = array('ajax','announcement','attachment','forumdisplay',
 	'group','image','index','medal','misc','modcp','notice','post','redirect',
-	'relatekw','relatethread','rss','topicadmin','trade','viewthread','tag'
+	'relatekw','relatethread','rss','topicadmin','trade','viewthread','tag','test'
 );
 
 $modcachelist = array(
@@ -46,7 +46,7 @@ if(isset($modcachelist[CURMODULE])) {
 if($discuz->var['mod'] == 'group') {
 	$_G['basescript'] = 'group';
 }
-
+//print_r($cachelist);exit;
 $discuz->cachelist = $cachelist;
 $discuz->init();
 
