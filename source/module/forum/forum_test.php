@@ -14,7 +14,7 @@ if(!defined('IN_DISCUZ')) {
 require libfile('class/crawl');
 
 $config = array('dir' => '/data/chunse/');
-$crawl = new crawl_tools($config);
+
 
 
 $limit = 1;
@@ -26,6 +26,7 @@ $url = 'http://www.456zy.com/list/?29-%d.html';
 //*
 for ($i = $start; $i < $end; $i = $i + $limit)
 {
+    $crawl = new crawl_tools($config);
     //$crawl = new crawl_tools($config);
     echo $i."\n";
     echo $i+$limit."\n";

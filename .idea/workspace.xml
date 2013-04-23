@@ -29,19 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="forum_test.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="forum_test.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/module/forum/forum_test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="44" selection-start="704" selection-end="713" vertical-scroll-proportion="-16.68">
+            <state line="28" column="38" selection-start="494" selection-end="494" vertical-scroll-proportion="0.3469388">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class_crawl.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="class_crawl.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/class/class_crawl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="24" selection-start="3501" selection-end="3501" vertical-scroll-proportion="0.9279712">
+            <state line="118" column="24" selection-start="3501" selection-end="3501" vertical-scroll-proportion="-30.92">
               <folding>
                 <element signature="e#6#168#0" expanded="true" />
               </folding>
@@ -123,8 +123,8 @@
         <option value="$PROJECT_DIR$/source/class/class_core.php" />
         <option value="$PROJECT_DIR$/forum.php" />
         <option value="$PROJECT_DIR$/source/function/function_core.php" />
-        <option value="$PROJECT_DIR$/source/module/forum/forum_test.php" />
         <option value="$PROJECT_DIR$/source/class/class_crawl.php" />
+        <option value="$PROJECT_DIR$/source/module/forum/forum_test.php" />
       </list>
     </option>
   </component>
@@ -451,19 +451,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/module/forum/forum_test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="44" selection-start="704" selection-end="713" vertical-scroll-proportion="-16.68">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/class/class_crawl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="24" selection-start="3501" selection-end="3501" vertical-scroll-proportion="0.9279712">
+        <state line="118" column="24" selection-start="3501" selection-end="3501" vertical-scroll-proportion="-30.92">
           <folding>
             <element signature="e#6#168#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/module/forum/forum_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="38" selection-start="494" selection-end="494" vertical-scroll-proportion="0.3469388">
+          <folding />
         </state>
       </provider>
     </entry>
