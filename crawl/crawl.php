@@ -7,10 +7,6 @@
  * To change this template use File | Settings | File Templates.
  */
 
-if(!defined('IN_DISCUZ')) {
-	exit('Access Denied');
-}
-
 class crawl
 {
     public $dir = '/data/chunse/';
@@ -35,6 +31,27 @@ class crawl
         $this->fileName = isset ($config['file_name']) ? $config['file_name'] : $this->fileName;
         $this->crawlType = isset ($config['crawl_type']) ? $config['crawl_type'] : $this->crawlType;
         $this->isReturn = isset ($config['is_return']) ? $config['is_return'] : $this->isReturn;
+    }
+
+    /**
+     * 抓取单个URL的内容，并写入文件
+     *
+     * @param $url
+     * @param int $id
+     * @param bool $isReturn
+     * @return bool|string
+     */
+    public function crawlOnes($url, $id = 0, $isReturn = false)
+    {
+        if (empty($url)) return false;
+
+        $content = file_get_contents($url);
+
+        if ($isReturn) {
+            return $content;
+        }
+
+        return $this->writeContent($content, $id);
     }
 
     /**

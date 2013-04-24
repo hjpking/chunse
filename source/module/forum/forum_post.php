@@ -359,6 +359,7 @@ $navtitle = lang('core', 'title_'.$_G['gp_action'].'_post');
 if($_G['gp_action'] == 'newthread') {
 	loadcache('groupreadaccess');
 	$navtitle .= ' - '.$_G['forum']['name'];
+    echo '<pre>';print_r(libfile('post/newthread', 'include'));exit;
 	require_once libfile('post/newthread', 'include');
 } elseif($_G['gp_action'] == 'reply') {
 	$navtitle .= ' - '.$thread['subject'].' - '.$_G['forum']['name'];
