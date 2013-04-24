@@ -6,7 +6,8 @@
  * Time: 下午8:20
  * To change this template use File | Settings | File Templates.
  */
-require 'crawl.php';
+require_once 'function.php';
+require_once 'crawl.php';
 
 $config = array('dir' => '/data/chunse/');
 

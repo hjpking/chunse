@@ -230,11 +230,3 @@ class crawl
     }
 }
 
-function intToPath($id)
-{
-    $id = (int)$id;
-    if($id < 1)return false;
-
-    preg_match("/(\d{1,2})(\d{0,2})/","{$id}", $matches);
-    return $matches[1] . '/' . $matches[1].$matches[2] . '/' . $id . '/';
-}
