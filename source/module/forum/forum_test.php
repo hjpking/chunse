@@ -17,11 +17,11 @@ $config = array('dir' => '/data/chunse/');
 
 
 
-$limit = 10;
+$limit = 20;
 $start = 1;
-$end   = 376;
+$end   = 12400;
 
-$url = 'http://www.456zy.com/list/?29-%d.html';
+$url = 'http://www.456zy.com/detail/?%d.html';
 
 //*
 for ($i = $start; $i < $end; $i = $i + $limit)
