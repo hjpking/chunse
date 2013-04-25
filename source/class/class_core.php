@@ -981,7 +981,7 @@ class DB
 
 	function query($sql, $type = '') {
 		DB::checkquery($sql);
-        echo $sql."<br>";
+        //echo $sql."<br>";
 		return DB::_execute('query', $sql, $type);
 	}
 

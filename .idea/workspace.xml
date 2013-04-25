@@ -6,8 +6,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/source/class/class_crawl.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/source/module/forum/forum_test.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/analysis_456zy.php" afterPath="$PROJECT_DIR$/crawl/analysis_456zy.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/dblog.txt" afterPath="$PROJECT_DIR$/crawl/dblog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/class/class_core.php" afterPath="$PROJECT_DIR$/source/class/class_core.php" />
     </list>
     <ignored path="chunse.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,10 +46,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="analysis_456zy.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="analysis_456zy.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawl/analysis_456zy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="19" selection-start="552" selection-end="552" vertical-scroll-proportion="0.44581282">
+            <state line="30" column="19" selection-start="552" selection-end="552" vertical-scroll-proportion="-15.083333">
               <folding>
                 <element signature="e#6#159#0" expanded="true" />
               </folding>
@@ -81,7 +80,16 @@
       <file leaf-file-name="post_newthread.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/include/post/post_newthread.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="496" column="48" selection-start="22344" selection-end="22344" vertical-scroll-proportion="-10.38">
+            <state line="443" column="17" selection-start="20077" selection-end="20077" vertical-scroll-proportion="-1.68">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class_core.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/class/class_core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="986" column="0" selection-start="31426" selection-end="31426" vertical-scroll-proportion="0.436796">
               <folding />
             </state>
           </provider>
@@ -124,12 +132,12 @@
         <option value="$PROJECT_DIR$/source/module/forum/forum_post.php" />
         <option value="$PROJECT_DIR$/crawl/global.function.php" />
         <option value="$PROJECT_DIR$/crawl/post.class.php" />
-        <option value="$PROJECT_DIR$/source/class/class_core.php" />
         <option value="$PROJECT_DIR$/source/include/post/post_newthread.php" />
         <option value="$PROJECT_DIR$/crawl/mysql.php" />
         <option value="$PROJECT_DIR$/crawl/discuz.php" />
         <option value="$PROJECT_DIR$/crawl/analysis.php" />
         <option value="$PROJECT_DIR$/crawl/analysis_456zy.php" />
+        <option value="$PROJECT_DIR$/source/class/class_core.php" />
       </list>
     </option>
   </component>
@@ -465,13 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/class/class_core.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="821" column="22" selection-start="27493" selection-end="27493" vertical-scroll-proportion="-12.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/function/function_message.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="137" column="12" selection-start="4176" selection-end="4176" vertical-scroll-proportion="-9.192307">
@@ -503,13 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/include/post/post_newthread.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="496" column="48" selection-start="22344" selection-end="22344" vertical-scroll-proportion="-10.38">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawl/mysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="10" selection-start="1607" selection-end="1607" vertical-scroll-proportion="-14.666667">
@@ -535,10 +529,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crawl/analysis_456zy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="19" selection-start="552" selection-end="552" vertical-scroll-proportion="0.44581282">
+        <state line="30" column="19" selection-start="552" selection-end="552" vertical-scroll-proportion="-15.083333">
           <folding>
             <element signature="e#6#159#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/include/post/post_newthread.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="443" column="17" selection-start="20077" selection-end="20077" vertical-scroll-proportion="-1.68">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/class/class_core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="986" column="0" selection-start="31426" selection-end="31426" vertical-scroll-proportion="0.436796">
+          <folding />
         </state>
       </provider>
     </entry>
