@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db23c213-c36d-48a2-83a7-8657eba3bfb0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crawl/discuz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crawl/mysql.php" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/source/class/class_crawl.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/source/module/forum/forum_test.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/logs/2013-04-25.log" afterPath="$PROJECT_DIR$/crawl/logs/2013-04-25.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/analysis.php" afterPath="$PROJECT_DIR$/crawl/analysis.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/analysis_456zy.php" afterPath="$PROJECT_DIR$/crawl/analysis_456zy.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/class/class_core.php" afterPath="$PROJECT_DIR$/source/class/class_core.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/cookie.txt" afterPath="$PROJECT_DIR$/crawl/cookie.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/formhash.txt" afterPath="$PROJECT_DIR$/crawl/formhash.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/login.log" afterPath="$PROJECT_DIR$/crawl/login.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/post.class.php" afterPath="$PROJECT_DIR$/crawl/post.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/include/post/post_newthread.php" afterPath="$PROJECT_DIR$/source/include/post/post_newthread.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/pubThread.log" afterPath="$PROJECT_DIR$/crawl/pubThread.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/visit-1.log" afterPath="$PROJECT_DIR$/crawl/visit-1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chunse.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +21,7 @@
     <file path="/crawl.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366788580756" ignored="false" />
     <file path="/forum_post.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366798541624" ignored="false" />
     <file path="/analysis.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366857451706" ignored="false" />
-    <file path="/analysis_456zy.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366869301556" ignored="false" />
+    <file path="/analysis_456zy.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366870625931" ignored="false" />
     <file path="/post.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366855620060" ignored="false" />
     <file path="/global.function.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366856621730" ignored="false" />
     <file path="/post.class.php" changelist="db23c213-c36d-48a2-83a7-8657eba3bfb0" time="1366856427572" ignored="false" />
@@ -62,10 +50,19 @@
       <file leaf-file-name="analysis_456zy.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crawl/analysis_456zy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="2" selection-start="616" selection-end="616" vertical-scroll-proportion="0.4642857">
+            <state line="69" column="37" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.6674877">
               <folding>
                 <element signature="e#6#159#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analysis.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawl/analysis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="54" selection-start="410" selection-end="410" vertical-scroll-proportion="-8.125">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -127,11 +124,11 @@
         <option value="$PROJECT_DIR$/source/module/forum/forum_post.php" />
         <option value="$PROJECT_DIR$/crawl/global.function.php" />
         <option value="$PROJECT_DIR$/crawl/post.class.php" />
-        <option value="$PROJECT_DIR$/crawl/analysis.php" />
         <option value="$PROJECT_DIR$/source/class/class_core.php" />
         <option value="$PROJECT_DIR$/source/include/post/post_newthread.php" />
         <option value="$PROJECT_DIR$/crawl/mysql.php" />
         <option value="$PROJECT_DIR$/crawl/discuz.php" />
+        <option value="$PROJECT_DIR$/crawl/analysis.php" />
         <option value="$PROJECT_DIR$/crawl/analysis_456zy.php" />
       </list>
     </option>
@@ -461,13 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawl/analysis.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="52" selection-start="365" selection-end="365" vertical-scroll-proportion="-7.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawl/function.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="14" selection-start="416" selection-end="416" vertical-scroll-proportion="0.38793105">
@@ -536,9 +526,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/analysis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="54" selection-start="410" selection-end="410" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/crawl/analysis_456zy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="2" selection-start="616" selection-end="616" vertical-scroll-proportion="0.4642857">
+        <state line="69" column="37" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.6674877">
           <folding>
             <element signature="e#6#159#0" expanded="true" />
           </folding>
