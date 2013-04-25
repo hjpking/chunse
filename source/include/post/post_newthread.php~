@@ -463,7 +463,7 @@ if(!submitcheck('topicsubmit', 0, $seccodecheck, $secqaacheck)) {
 	if($_G['group']['allowpostrushreply'] && $_G['gp_rushreply']) {
 		DB::query("INSERT INTO ".DB::table('forum_threadrush')." (tid, stopfloor, starttimefrom, starttimeto, rewardfloor) VALUES ('$tid', '$_G[gp_stopfloor]', '$_G[gp_rushreplyfrom]', '$_G[gp_rushreplyto]', '$_G[gp_rewardfloor]')");
 	}
-echo '<pre>';print_r($message);exit;
+
 	$pinvisible = $modnewthreads ? -2 : (empty($_G['gp_save']) ? 0 : -3);
 	$message = preg_replace('/\[attachimg\](\d+)\[\/attachimg\]/is', '[attach]\1[/attach]', $message);
 	$pid = insertpost(array(
@@ -663,7 +663,7 @@ echo '<pre>';print_r($message);exit;
 			updategroupcreditlog($_G['fid'], $_G['uid']);
 		}
 
-		//showmessage('post_newthread_succeed', "forum.php?mod=viewthread&tid=$tid&extra=$extra", $param);
+		showmessage('post_newthread_succeed', "forum.php?mod=viewthread&tid=$tid&extra=$extra", $param);
 
 	}
 }
