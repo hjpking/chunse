@@ -1,0 +1,157 @@
+2013-04-25 09:53:57|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:53:57|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 09:57:09|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:57:09|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 09:57:10|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:57:10|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 09:57:11|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:57:11|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 09:57:11|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:57:12|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 09:57:37|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:57:37|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 09:57:37|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 09:57:37|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 09:57:37|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 09:57:37|WARNING:post::pubThread|74|Pub Thread May be Failed To Fid:2|
+2013-04-25 09:57:37|NOTICE:post::pubThread|78|END Pub Thread,And The tid Is:|
+2013-04-25 09:59:08|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:59:09|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:59:10|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:59:10|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:59:11|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:59:11|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:59:11|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:59:12|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:59:12|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:59:13|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 09:59:13|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:00:12|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:00:12|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:00:12|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:00:12|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:00:12|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:00:12|WARNING:post::pubThread|74|Pub Thread May be Failed To Fid:2|
+2013-04-25 10:00:12|NOTICE:post::pubThread|78|END Pub Thread,And The tid Is:|
+2013-04-25 10:00:44|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:00:45|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:00:45|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:00:45|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:00:46|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:00:46|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:00:46|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:00:47|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:00:47|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:01:12|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:01:12|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:01:12|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:01:13|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:01:13|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:01:13|WARNING:post::pubThread|74|Pub Thread May be Failed To Fid:2|
+2013-04-25 10:01:13|NOTICE:post::pubThread|78|END Pub Thread,And The tid Is:|
+2013-04-25 10:01:52|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:01:53|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:01:54|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:01:54|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:01:54|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:01:54|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:01:55|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:01:55|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:01:55|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:07:39|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:07:39|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:09:10|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:11|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:11|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:12|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:12|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:12|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:12|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:12|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:13|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:13|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:13|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:13|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:13|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:14|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:42|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:09:44|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:10:27|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:11:03|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:11:18|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:11:19|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:11:27|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:11:29|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:11:43|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:11:44|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:12:25|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:12:26|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:12:26|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:12:27|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:12:56|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:12:58|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:13:04|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:13:04|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:13:06|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:13:06|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:14:43|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:14:43|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:14:43|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:14:44|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:14:44|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:14:44|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:14:45|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:14:45|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:14:45|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:14:45|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:17:26|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:17:26|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:17:26|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:17:26|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:17:26|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:17:27|WARNING:post::pubThread|74|Pub Thread May be Failed To Fid:2|
+2013-04-25 10:17:27|NOTICE:post::pubThread|78|END Pub Thread,And The tid Is:|
+2013-04-25 10:20:29|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:20:29|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:20:29|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:20:29|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:20:29|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:20:32|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:20:33|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:20:33|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:20:33|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:20:33|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:20:34|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:20:34|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:20:34|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:20:34|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:20:34|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:20:52|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:20:52|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:20:52|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:20:53|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:20:53|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:20:53|WARNING:post::pubThread|74|Pub Thread May be Failed To Fid:2|
+2013-04-25 10:20:53|NOTICE:post::pubThread|78|END Pub Thread,And The tid Is:|
+2013-04-25 10:20:54|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:20:54|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:20:54|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:20:54|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:20:54|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:20:55|WARNING:post::pubThread|74|Pub Thread May be Failed To Fid:2|
+2013-04-25 10:20:55|NOTICE:post::pubThread|78|END Pub Thread,And The tid Is:|
+2013-04-25 10:21:31|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:21:31|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:21:31|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:21:31|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:21:31|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:22:16|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:22:17|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:22:17|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:22:17|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:22:17|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:23:50|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:23:51|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:23:51|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:23:51|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:23:51|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|

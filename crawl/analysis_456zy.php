@@ -9,6 +9,14 @@
 require_once 'function.php';
 require_once 'analysis.php';
 
+
+date_default_timezone_set('Asia/Chongqing');
+require_once dirname(__FILE__) . '/Snoopy.class.php';
+require_once dirname(__FILE__) . '/global.function.php';
+require_once dirname(__FILE__) . '/post.class.php';
+
+
+
 $config = array('dir' => '/data/chunse/');
 $rules = $rule['456zy'];
 
@@ -26,6 +34,17 @@ $data = array(
     'image' => '',
     'address' => '',
 );
+
+define('FORUM_DOMAIN', 'chunse.com');
+
+$post = new post;
+
+$user = array();
+$user['username'] = 'admin';
+$user['password'] = '123456';
+
+
+$post->setCurrUser($user);
 
 for ($i = $start; $i <= $end; $i++)
 {
@@ -66,5 +85,33 @@ for ($i = $start; $i <= $end; $i++)
     preg_match($rules['address'], $content, $address);
     $data['address'] = isset($address[1]) ? $address[1] : '';
 
-    p($data);
+    //p($data);
+
+
+
+
+
+
+
+#模拟发帖
+    $threaddata=array();
+    $threaddata['allownoticeauthor'] = 1;
+    $threaddata['formhash'] = getFormHashValue();
+    $threaddata['message'] = $data['content']."<br>影片地址：".$data['address'];
+    $threaddata['posttime'] = time();
+    $threaddata['replycredit_extcredits'] = 0;
+    $threaddata['replycredit_membertimes'] = 1;
+    $threaddata['replycredit_random'] = 100;
+    $threaddata['replycredit_times'] = 1;
+    $threaddata['subject'] = '['.$data['type'].']'.$data['name'];
+    $threaddata['usesig'] = 1;
+    $threaddata['wysiwyg'] = 1;
+
+#板块ID
+    $fid = 2;
+    $tid=$post->pubThread($threaddata, $fid);
+
+    //unset ($post);
+
+    sleep(1);
 }

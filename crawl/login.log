@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root><![CDATA[<script type="text/javascript" reload="1">window.location.href='forum.php';</script>]]></root>Array
+(
+    [0] => HTTP/1.1 200 OK
+
+    [1] => Server: nginx/1.2.1
+
+    [2] => Date: Thu, 25 Apr 2013 02:23:51 GMT
+
+    [3] => Content-Type: text/xml; charset=utf-8
+
+    [4] => Connection: close
+
+    [5] => X-Powered-By: PHP/5.4.6-1ubuntu1.2
+
+    [6] => Set-Cookie: xlDo_2132_saltkey=TPV8Espp; expires=Sat, 25-May-2013 02:23:50 GMT; path=/; httponly
+
+    [7] => Set-Cookie: xlDo_2132_lastvisit=1366853030; expires=Sat, 25-May-2013 02:23:50 GMT; path=/
+
+    [8] => Set-Cookie: xlDo_2132_sid=h0lVzc; expires=Fri, 26-Apr-2013 02:23:50 GMT; path=/
+
+    [9] => Set-Cookie: xlDo_2132_lastact=1366856630%09member.php%09logging; expires=Fri, 26-Apr-2013 02:23:50 GMT; path=/
+
+    [10] => Set-Cookie: xlDo_2132_auth=4a7b%2BLV0rFoR2KgZIO6UctcEtaE6r%2B7OexNJz56PM%2B29dAoTMGTWNJ2mUssYzxZiz2avcan1g4C%2BEm4Wrhqk; path=/; httponly
+
+    [11] => Set-Cookie: xlDo_2132_loginuser=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+    [12] => Set-Cookie: xlDo_2132_activationauth=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+    [13] => Set-Cookie: xlDo_2132_pmnum=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+    [14] => Expires: -1
+
+    [15] => Cache-Control: no-store, private, post-check=0, pre-check=0, max-age=0
+
+    [16] => Pragma: no-cache
+
+)

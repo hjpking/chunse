@@ -27,9 +27,9 @@ $_config = array();
  * ...
  *
  */
-$_config['db'][1]['dbhost']  		= 'localhost';		
+$_config['db'][1]['dbhost']  		= '211.100.40.57';
 $_config['db'][1]['dbuser']  		= 'root';		
-$_config['db'][1]['dbpw'] 	 	= 'root';		
+$_config['db'][1]['dbpw'] 	 	    = '123456';
 $_config['db'][1]['dbcharset'] 		= 'utf8';		
 $_config['db'][1]['pconnect'] 		= 0;			
 $_config['db'][1]['dbname']  		= 'ultrax';		

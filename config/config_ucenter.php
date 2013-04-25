@@ -3,7 +3,7 @@
 
 define('UC_CONNECT', 'mysql');
 
-define('UC_DBHOST', '127.0.0.1');
+define('UC_DBHOST', '211.100.40.57');
 define('UC_DBUSER', 'root');
 define('UC_DBPW', '123456');
 define('UC_DBNAME', 'chunse');
