@@ -155,3 +155,137 @@
 2013-04-25 10:23:51|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
 2013-04-25 10:23:51|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
 2013-04-25 10:23:51|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:30:11|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:30:12|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:30:12|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:30:12|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:30:41|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:30:42|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:30:42|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:30:42|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:31:06|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:31:06|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:31:06|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:31:06|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:31:07|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:31:07|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:31:07|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:31:08|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:31:18|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:31:18|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:31:18|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:31:19|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:31:19|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:31:35|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:31:35|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:31:35|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:31:35|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:32:10|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:32:11|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:32:11|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:32:11|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:32:41|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:32:42|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:32:42|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:32:42|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:32:42|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:33:04|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:33:05|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:33:05|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:33:05|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:33:05|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:33:05|WARNING:post::pubThread|74|Pub Thread May be Failed To Fid:2|
+2013-04-25 10:33:05|NOTICE:post::pubThread|78|END Pub Thread,And The tid Is:|
+2013-04-25 10:33:31|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:33:31|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:33:31|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:33:32|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:33:32|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:34:12|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:34:12|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:34:12|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:34:12|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:34:12|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:34:23|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:34:23|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:34:23|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:34:24|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:34:42|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:34:42|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:34:42|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:34:43|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:34:49|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:34:50|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:34:50|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:34:50|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:34:50|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:35:04|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:35:04|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:35:04|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:35:04|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:35:53|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:35:53|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:35:53|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:35:54|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:35:54|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:36:04|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:36:05|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:36:05|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:36:05|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:36:05|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:36:16|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:36:16|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:36:16|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:36:16|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:36:16|NOTICE:post::pubThread|49|START Pub Thread To Fid:2|
+2013-04-25 10:36:51|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:36:52|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:36:52|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:36:52|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:37:35|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:37:35|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:37:35|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:37:36|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:37:36|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:37:36|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:37:36|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:37:36|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:37:36|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:37:36|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:37:36|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:37:37|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:37:37|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:37:37|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:37:37|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:37:37|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:37:37|WARNING:post::imitateVisit|149|Fetch Index May Lost Cookies!User:admin|
+2013-04-25 10:37:37|WARNING:post::setCurrUser|34|Lost Cookies!|
+2013-04-25 10:37:37|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:37:38|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:37:38|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:37:38|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:38:37|WARNING:post::imitateVisit|149|Fetch Index May Lost Cookies!User:admin|
+2013-04-25 10:38:37|WARNING:post::setCurrUser|34|Lost Cookies!|
+2013-04-25 10:38:37|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:38:37|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:38:38|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:38:38|WARNING:post::imitateVisit|149|Fetch Index May Lost Cookies!User:admin|
+2013-04-25 10:38:38|WARNING:post::setCurrUser|34|Lost Cookies!|
+2013-04-25 10:38:38|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:38:38|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:38:38|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:38:38|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:38:38|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:39:38|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:39:38|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:39:38|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:39:38|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:39:38|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:39:38|NOTICE:post::setCurrUser|23|Call $this->login()|
+2013-04-25 10:39:38|WARNING:post::login|189|User:admin|Login Failed,Check User And Password!|
+2013-04-25 10:39:39|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:39:39|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:39:39|NOTICE:post::login|186|User:admin|Login Access OK!|
+2013-04-25 10:39:39|NOTICE:post::imitateVisit|119|Fetch Url:http://chunse.com/forum.php|
+2013-04-25 10:39:39|NOTICE:post::setCurrUser|39|CurrUser Is :admin|
+2013-04-25 10:39:39|NOTICE:post::setCurrUser|39|CurrUser Is :admin|

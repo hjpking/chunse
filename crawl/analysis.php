@@ -8,7 +8,7 @@
  */
 $rule = array(
     '456zy' => array(
-        'name' => "/影片名称：.*<font.*>(.*)<\/font>/sU",
+        'name' => "/影片名称：.*<font.*>[.*>](.*)[.*<]<\/font>/sU",
         'type' => "/影片类型：.*<font.*>(.*)<\/font>/sU",
         'area' => "/影片地区：.*<font.*>(.*)<\/font>/sU",
         'status' => "/影片状态：.*<font.*>(.*)<\/font>/sU",

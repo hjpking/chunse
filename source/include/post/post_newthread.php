@@ -663,7 +663,7 @@ if(!submitcheck('topicsubmit', 0, $seccodecheck, $secqaacheck)) {
 			updategroupcreditlog($_G['fid'], $_G['uid']);
 		}
 
-		showmessage('post_newthread_succeed', "forum.php?mod=viewthread&tid=$tid&extra=$extra", $param);
+		//showmessage('post_newthread_succeed', "forum.php?mod=viewthread&tid=$tid&extra=$extra", $param);
 
 	}
 }

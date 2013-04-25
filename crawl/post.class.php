@@ -66,7 +66,7 @@ class post {
             file_put_contents(dirname(__FILE__) . '/pubThread.log', $snoopy->results);
             file_put_contents(dirname(__FILE__) . '/pubThread.log', print_r($snoopy->headers, true), 8);
         }
-echo '<pre>';print_r($snoopy->results);exit;
+        echo '<pre>';print_r($snoopy->results);exit;
         $pTid = "#tid = parseInt\('(.*)'\)#isU";
         preg_match_all($pTid, $snoopy->results, $d);
 
