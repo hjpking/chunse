@@ -146,5 +146,9 @@ function postThread($forumId, $subject, $content)
     $sql = "UPDATE cs_forum_forum SET lastpost='{$lastPost}', threads=threads+1, posts=posts+1, todayposts=todayposts+1 WHERE fid=".$forumId;
     $mysql->query($sql);
 
+    //post分表协调表
+    $sql = "insert into cs_forum_post_tableid(pid) value(null)";
+    $mysql->query($sql);
+
     return true;
 }
