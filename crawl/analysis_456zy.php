@@ -21,8 +21,8 @@ $forumId = 2;
 
 $limit = 5;
 $start = 1001;
-//$end   = 12400;
-$end   = 1001;
+$end   = 12400;
+//$end   = 1003;
 
 $data = array(
     'name' => '',
@@ -73,7 +73,7 @@ for ($i = $start; $i <= $end; $i++)
     preg_match($rules['address'], $content, $address);
     $data['address'] = isset($address[1]) ? $address[1] : '';
 
-    p($data);
+    //p($data);
 
     $title = '['.$data['type'].']'.$data['name'];
     $content = $data['content'].'<br><br>地址：'.$data['address'];

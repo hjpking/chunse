@@ -404,3 +404,157 @@
 2013-04-25 14:03:11 查询 UPDATE cs_forum_forum SET lastpost='23 [] 1366869790 admin', threads=threads+1, posts=posts+1, todayposts=todayposts+1 WHERE fid=2
 2013-04-25 14:03:11 释放结果集
 2013-04-25 14:03:11 完成整个查询任务,所用时间为0.12708687782288
+2013-04-25 14:18:34 插入 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[偷拍自拍]菲律宾警察援交未成年大奶少女门','1366870714','1366870714','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:18:34 查询 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[偷拍自拍]菲律宾警察援交未成年大奶少女门','1366870714','1366870714','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:18:34 最后插入的id为40344
+2013-04-25 14:18:34 插入 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870714')
+2013-04-25 14:18:34 查询 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870714')
+2013-04-25 14:18:34 最后插入的id为45392
+2013-04-25 14:18:34 更新 update cs_common_member_field_home set recentnote = '[偷拍自拍]菲律宾警察援交未成年大奶少女门',recentnote = '[偷拍自拍]菲律宾警察援交未成年大奶少女门' where 1=1 and uid=1
+2013-04-25 14:18:34 查询 update cs_common_member_field_home set recentnote = '[偷拍自拍]菲律宾警察援交未成年大奶少女门',recentnote = '[偷拍自拍]菲律宾警察援交未成年大奶少女门' where 1=1 and uid=1
+2013-04-25 14:18:34 插入 insert into cs_common_tag(tagname,status) values('[偷拍自拍]菲律宾警察援交未成年大奶少女门','0')
+2013-04-25 14:18:34 查询 insert into cs_common_tag(tagname,status) values('[偷拍自拍]菲律宾警察援交未成年大奶少女门','0')
+2013-04-25 14:18:34 最后插入的id为45385
+2013-04-25 14:18:34 插入 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('45385','[偷拍自拍]菲律宾警察援交未成年大奶少女门','40344','tid')
+2013-04-25 14:18:34 查询 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('45385','[偷拍自拍]菲律宾警察援交未成年大奶少女门','40344','tid')
+2013-04-25 14:18:34 最后插入的id为0
+2013-04-25 14:18:34 插入 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','40344','1','admin','1','[偷拍自拍]菲律宾警察援交未成年大奶少女门','1366870714','<font color="#000">
+        <td valign="top"><div class="intro"><font color="#000">
+<br><br>地址：qvod://241761262|7335CED369A037488C40EB154D87E27B5D6F06C4|17_菲律宾警察援交未成年大奶少女门.avi|','127.0.0.1','0','0','1','1','-1','1','0','45385,[偷拍自拍]菲律宾警察援交未成年大奶少女门\t','0','0')
+2013-04-25 14:18:34 查询 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','40344','1','admin','1','[偷拍自拍]菲律宾警察援交未成年大奶少女门','1366870714','<font color="#000">
+        <td valign="top"><div class="intro"><font color="#000">
+<br><br>地址：qvod://241761262|7335CED369A037488C40EB154D87E27B5D6F06C4|17_菲律宾警察援交未成年大奶少女门.avi|','127.0.0.1','0','0','1','1','-1','1','0','45385,[偷拍自拍]菲律宾警察援交未成年大奶少女门\t','0','0')
+2013-04-25 14:18:34 查询 UPDATE cs_common_stat SET `thread`=`thread`+1 WHERE daytime=20130425
+2013-04-25 14:18:34 查询 UPDATE cs_common_member_count SET extcredits1=extcredits1+'0',extcredits2=extcredits2+'2',extcredits3=extcredits3+'0',threads=threads+'1',posts=posts+'1'
+        WHERE uid IN ('1')
+2013-04-25 14:18:34 查询 UPDATE cs_common_member_status SET lastpost='1366870714' WHERE uid IN ('1')
+2013-04-25 14:18:34 查询 UPDATE cs_forum_forum SET lastpost='40344 [偷拍自拍]菲律宾警察援交未成年大奶少女门 1366870714 admin', threads=threads+1, posts=posts+1, todayposts=todayposts+1 WHERE fid=2
+2013-04-25 14:18:34 释放结果集
+2013-04-25 14:18:34 完成整个查询任务,所用时间为0.14355611801147
+2013-04-25 14:18:34 插入 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[偷拍自拍]河北职校学生旅馆爱爱','1366870714','1366870714','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:18:34 查询 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[偷拍自拍]河北职校学生旅馆爱爱','1366870714','1366870714','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:18:34 最后插入的id为40362
+2013-04-25 14:18:34 插入 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870714')
+2013-04-25 14:18:34 查询 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870714')
+2013-04-25 14:18:34 最后插入的id为45413
+2013-04-25 14:18:34 更新 update cs_common_member_field_home set recentnote = '[偷拍自拍]河北职校学生旅馆爱爱',recentnote = '[偷拍自拍]河北职校学生旅馆爱爱' where 1=1 and uid=1
+2013-04-25 14:18:34 查询 update cs_common_member_field_home set recentnote = '[偷拍自拍]河北职校学生旅馆爱爱',recentnote = '[偷拍自拍]河北职校学生旅馆爱爱' where 1=1 and uid=1
+2013-04-25 14:18:34 插入 insert into cs_common_tag(tagname,status) values('[偷拍自拍]河北职校学生旅馆爱爱','0')
+2013-04-25 14:18:34 查询 insert into cs_common_tag(tagname,status) values('[偷拍自拍]河北职校学生旅馆爱爱','0')
+2013-04-25 14:18:34 最后插入的id为45410
+2013-04-25 14:18:34 插入 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('45410','[偷拍自拍]河北职校学生旅馆爱爱','40362','tid')
+2013-04-25 14:18:34 查询 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('45410','[偷拍自拍]河北职校学生旅馆爱爱','40362','tid')
+2013-04-25 14:18:34 最后插入的id为0
+2013-04-25 14:18:34 插入 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','40362','1','admin','1','[偷拍自拍]河北职校学生旅馆爱爱','1366870714','<font color="#000">
+        <td valign="top"><div class="intro"><font color="#000">
+<br><br>地址：qvod://74217472|CB9F8D6FACBA6DC27162E5F3650D8323E6A5B9B4|11_河北职校学生旅馆爱爱.MPG|','127.0.0.1','0','0','1','1','-1','1','0','45410,[偷拍自拍]河北职校学生旅馆爱爱\t','0','0')
+2013-04-25 14:18:34 查询 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','40362','1','admin','1','[偷拍自拍]河北职校学生旅馆爱爱','1366870714','<font color="#000">
+        <td valign="top"><div class="intro"><font color="#000">
+<br><br>地址：qvod://74217472|CB9F8D6FACBA6DC27162E5F3650D8323E6A5B9B4|11_河北职校学生旅馆爱爱.MPG|','127.0.0.1','0','0','1','1','-1','1','0','45410,[偷拍自拍]河北职校学生旅馆爱爱\t','0','0')
+2013-04-25 14:18:34 查询 UPDATE cs_common_stat SET `thread`=`thread`+1 WHERE daytime=20130425
+2013-04-25 14:18:34 查询 UPDATE cs_common_member_count SET extcredits1=extcredits1+'0',extcredits2=extcredits2+'2',extcredits3=extcredits3+'0',threads=threads+'1',posts=posts+'1'
+        WHERE uid IN ('1')
+2013-04-25 14:18:34 查询 UPDATE cs_common_member_status SET lastpost='1366870714' WHERE uid IN ('1')
+2013-04-25 14:18:34 查询 UPDATE cs_forum_forum SET lastpost='40362 [偷拍自拍]河北职校学生旅馆爱爱 1366870714 admin', threads=threads+1, posts=posts+1, todayposts=todayposts+1 WHERE fid=2
+2013-04-25 14:18:34 释放结果集
+2013-04-25 14:18:34 完成整个查询任务,所用时间为0.14710092544556
+2013-04-25 14:18:34 插入 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[]','1366870714','1366870714','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:18:34 查询 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[]','1366870714','1366870714','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:18:34 最后插入的id为40374
+2013-04-25 14:18:34 插入 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870714')
+2013-04-25 14:18:34 查询 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870714')
+2013-04-25 14:18:34 最后插入的id为45422
+2013-04-25 14:18:34 更新 update cs_common_member_field_home set recentnote = '[]',recentnote = '[]' where 1=1 and uid=1
+2013-04-25 14:18:34 查询 update cs_common_member_field_home set recentnote = '[]',recentnote = '[]' where 1=1 and uid=1
+2013-04-25 14:18:34 插入 insert into cs_common_tag(tagname,status) values('[]','0')
+2013-04-25 14:18:34 查询 insert into cs_common_tag(tagname,status) values('[]','0')
+2013-04-25 14:18:34 最后插入的id为45415
+2013-04-25 14:18:34 插入 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('45415','[]','40374','tid')
+2013-04-25 14:18:34 查询 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('45415','[]','40374','tid')
+2013-04-25 14:18:34 最后插入的id为0
+2013-04-25 14:18:34 插入 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','40374','1','admin','1','[]','1366870714','<br><br>地址：','127.0.0.1','0','0','1','1','-1','1','0','45415,[]\t','0','0')
+2013-04-25 14:18:34 查询 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','40374','1','admin','1','[]','1366870714','<br><br>地址：','127.0.0.1','0','0','1','1','-1','1','0','45415,[]\t','0','0')
+2013-04-25 14:18:34 查询 UPDATE cs_common_stat SET `thread`=`thread`+1 WHERE daytime=20130425
+2013-04-25 14:18:34 查询 UPDATE cs_common_member_count SET extcredits1=extcredits1+'0',extcredits2=extcredits2+'2',extcredits3=extcredits3+'0',threads=threads+'1',posts=posts+'1'
+        WHERE uid IN ('1')
+2013-04-25 14:18:34 查询 UPDATE cs_common_member_status SET lastpost='1366870714' WHERE uid IN ('1')
+2013-04-25 14:18:34 查询 UPDATE cs_forum_forum SET lastpost='40374 [] 1366870714 admin', threads=threads+1, posts=posts+1, todayposts=todayposts+1 WHERE fid=2
+2013-04-25 14:18:34 释放结果集
+2013-04-25 14:18:34 完成整个查询任务,所用时间为0.1402690410614
+2013-04-25 14:19:19 插入 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[偷拍自拍]菲律宾警察援交未成年大奶少女门','1366870759','1366870759','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:19:19 查询 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[偷拍自拍]菲律宾警察援交未成年大奶少女门','1366870759','1366870759','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:19:19 最后插入的id为314
+2013-04-25 14:19:19 插入 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870759')
+2013-04-25 14:19:19 查询 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870759')
+2013-04-25 14:19:19 最后插入的id为46960
+2013-04-25 14:19:19 更新 update cs_common_member_field_home set recentnote = '[偷拍自拍]菲律宾警察援交未成年大奶少女门',recentnote = '[偷拍自拍]菲律宾警察援交未成年大奶少女门' where 1=1 and uid=1
+2013-04-25 14:19:19 查询 update cs_common_member_field_home set recentnote = '[偷拍自拍]菲律宾警察援交未成年大奶少女门',recentnote = '[偷拍自拍]菲律宾警察援交未成年大奶少女门' where 1=1 and uid=1
+2013-04-25 14:19:19 插入 insert into cs_common_tag(tagname,status) values('[偷拍自拍]菲律宾警察援交未成年大奶少女门','0')
+2013-04-25 14:19:19 查询 insert into cs_common_tag(tagname,status) values('[偷拍自拍]菲律宾警察援交未成年大奶少女门','0')
+2013-04-25 14:19:19 最后插入的id为46953
+2013-04-25 14:19:19 插入 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('46953','[偷拍自拍]菲律宾警察援交未成年大奶少女门','314','tid')
+2013-04-25 14:19:19 查询 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('46953','[偷拍自拍]菲律宾警察援交未成年大奶少女门','314','tid')
+2013-04-25 14:19:19 最后插入的id为0
+2013-04-25 14:19:19 插入 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','314','1','admin','1','[偷拍自拍]菲律宾警察援交未成年大奶少女门','1366870759','<font color="#000">
+        <td valign="top"><div class="intro"><font color="#000">
+<br><br>地址：qvod://241761262|7335CED369A037488C40EB154D87E27B5D6F06C4|17_菲律宾警察援交未成年大奶少女门.avi|','127.0.0.1','0','0','1','1','-1','1','0','46953,[偷拍自拍]菲律宾警察援交未成年大奶少女门\t','0','0')
+2013-04-25 14:19:19 查询 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','314','1','admin','1','[偷拍自拍]菲律宾警察援交未成年大奶少女门','1366870759','<font color="#000">
+        <td valign="top"><div class="intro"><font color="#000">
+<br><br>地址：qvod://241761262|7335CED369A037488C40EB154D87E27B5D6F06C4|17_菲律宾警察援交未成年大奶少女门.avi|','127.0.0.1','0','0','1','1','-1','1','0','46953,[偷拍自拍]菲律宾警察援交未成年大奶少女门\t','0','0')
+2013-04-25 14:19:19 查询 UPDATE cs_common_stat SET `thread`=`thread`+1 WHERE daytime=20130425
+2013-04-25 14:19:19 查询 UPDATE cs_common_member_count SET extcredits1=extcredits1+'0',extcredits2=extcredits2+'2',extcredits3=extcredits3+'0',threads=threads+'1',posts=posts+'1'
+        WHERE uid IN ('1')
+2013-04-25 14:19:19 查询 UPDATE cs_common_member_status SET lastpost='1366870759' WHERE uid IN ('1')
+2013-04-25 14:19:19 查询 UPDATE cs_forum_forum SET lastpost='314 [偷拍自拍]菲律宾警察援交未成年大奶少女门 1366870759 admin', threads=threads+1, posts=posts+1, todayposts=todayposts+1 WHERE fid=2
+2013-04-25 14:19:19 释放结果集
+2013-04-25 14:19:19 完成整个查询任务,所用时间为0.13608002662659
+2013-04-25 14:19:19 插入 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[偷拍自拍]河北职校学生旅馆爱爱','1366870759','1366870759','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:19:19 查询 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[偷拍自拍]河北职校学生旅馆爱爱','1366870759','1366870759','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:19:19 最后插入的id为319
+2013-04-25 14:19:19 插入 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870759')
+2013-04-25 14:19:19 查询 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870759')
+2013-04-25 14:19:19 最后插入的id为46965
+2013-04-25 14:19:19 更新 update cs_common_member_field_home set recentnote = '[偷拍自拍]河北职校学生旅馆爱爱',recentnote = '[偷拍自拍]河北职校学生旅馆爱爱' where 1=1 and uid=1
+2013-04-25 14:19:19 查询 update cs_common_member_field_home set recentnote = '[偷拍自拍]河北职校学生旅馆爱爱',recentnote = '[偷拍自拍]河北职校学生旅馆爱爱' where 1=1 and uid=1
+2013-04-25 14:19:19 插入 insert into cs_common_tag(tagname,status) values('[偷拍自拍]河北职校学生旅馆爱爱','0')
+2013-04-25 14:19:19 查询 insert into cs_common_tag(tagname,status) values('[偷拍自拍]河北职校学生旅馆爱爱','0')
+2013-04-25 14:19:19 最后插入的id为46959
+2013-04-25 14:19:19 插入 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('46959','[偷拍自拍]河北职校学生旅馆爱爱','319','tid')
+2013-04-25 14:19:19 查询 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('46959','[偷拍自拍]河北职校学生旅馆爱爱','319','tid')
+2013-04-25 14:19:19 最后插入的id为0
+2013-04-25 14:19:19 插入 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','319','1','admin','1','[偷拍自拍]河北职校学生旅馆爱爱','1366870759','<font color="#000">
+        <td valign="top"><div class="intro"><font color="#000">
+<br><br>地址：qvod://74217472|CB9F8D6FACBA6DC27162E5F3650D8323E6A5B9B4|11_河北职校学生旅馆爱爱.MPG|','127.0.0.1','0','0','1','1','-1','1','0','46959,[偷拍自拍]河北职校学生旅馆爱爱\t','0','0')
+2013-04-25 14:19:19 查询 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','319','1','admin','1','[偷拍自拍]河北职校学生旅馆爱爱','1366870759','<font color="#000">
+        <td valign="top"><div class="intro"><font color="#000">
+<br><br>地址：qvod://74217472|CB9F8D6FACBA6DC27162E5F3650D8323E6A5B9B4|11_河北职校学生旅馆爱爱.MPG|','127.0.0.1','0','0','1','1','-1','1','0','46959,[偷拍自拍]河北职校学生旅馆爱爱\t','0','0')
+2013-04-25 14:19:19 查询 UPDATE cs_common_stat SET `thread`=`thread`+1 WHERE daytime=20130425
+2013-04-25 14:19:19 查询 UPDATE cs_common_member_count SET extcredits1=extcredits1+'0',extcredits2=extcredits2+'2',extcredits3=extcredits3+'0',threads=threads+'1',posts=posts+'1'
+        WHERE uid IN ('1')
+2013-04-25 14:19:19 查询 UPDATE cs_common_member_status SET lastpost='1366870759' WHERE uid IN ('1')
+2013-04-25 14:19:19 查询 UPDATE cs_forum_forum SET lastpost='319 [偷拍自拍]河北职校学生旅馆爱爱 1366870759 admin', threads=threads+1, posts=posts+1, todayposts=todayposts+1 WHERE fid=2
+2013-04-25 14:19:19 释放结果集
+2013-04-25 14:19:19 完成整个查询任务,所用时间为0.11937594413757
+2013-04-25 14:19:19 插入 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[]','1366870759','1366870759','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:19:19 查询 insert into cs_forum_thread(fid,posttableid,readperm,price,typeid,sortid,author,authorid,subject,dateline,lastpost,lastposter,displayorder,digest,special,attachment,moderated,status,isgroup,replycredit,closed) values('2','0','0','0','0','','admin','1','[]','1366870759','1366870759','admin','0','0','0','0','0','32','0','0','0')
+2013-04-25 14:19:19 最后插入的id为323
+2013-04-25 14:19:19 插入 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870759')
+2013-04-25 14:19:19 查询 insert into cs_common_member_action_log(uid,action,dateline) values('1','0','1366870759')
+2013-04-25 14:19:19 最后插入的id为46969
+2013-04-25 14:19:19 更新 update cs_common_member_field_home set recentnote = '[]',recentnote = '[]' where 1=1 and uid=1
+2013-04-25 14:19:19 查询 update cs_common_member_field_home set recentnote = '[]',recentnote = '[]' where 1=1 and uid=1
+2013-04-25 14:19:19 插入 insert into cs_common_tag(tagname,status) values('[]','0')
+2013-04-25 14:19:19 查询 insert into cs_common_tag(tagname,status) values('[]','0')
+2013-04-25 14:19:19 最后插入的id为46963
+2013-04-25 14:19:19 插入 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('46963','[]','323','tid')
+2013-04-25 14:19:19 查询 insert into cs_common_tagitem(tagid,tagname,itemid,idtype) values('46963','[]','323','tid')
+2013-04-25 14:19:19 最后插入的id为0
+2013-04-25 14:19:19 插入 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','323','1','admin','1','[]','1366870759','<br><br>地址：','127.0.0.1','0','0','1','1','-1','1','0','46963,[]\t','0','0')
+2013-04-25 14:19:19 查询 insert into cs_forum_post(fid,tid,first,author,authorid,subject,dateline,message,useip,invisible,anonymous,usesig,htmlon,bbcodeoff,parseurloff,attachment,tags,replycredit,status) values('2','323','1','admin','1','[]','1366870759','<br><br>地址：','127.0.0.1','0','0','1','1','-1','1','0','46963,[]\t','0','0')
+2013-04-25 14:19:19 查询 UPDATE cs_common_stat SET `thread`=`thread`+1 WHERE daytime=20130425
+2013-04-25 14:19:19 查询 UPDATE cs_common_member_count SET extcredits1=extcredits1+'0',extcredits2=extcredits2+'2',extcredits3=extcredits3+'0',threads=threads+'1',posts=posts+'1'
+        WHERE uid IN ('1')
+2013-04-25 14:19:19 查询 UPDATE cs_common_member_status SET lastpost='1366870759' WHERE uid IN ('1')
+2013-04-25 14:19:19 查询 UPDATE cs_forum_forum SET lastpost='323 [] 1366870759 admin', threads=threads+1, posts=posts+1, todayposts=todayposts+1 WHERE fid=2
+2013-04-25 14:19:19 释放结果集
+2013-04-25 14:19:19 完成整个查询任务,所用时间为0.1130850315094

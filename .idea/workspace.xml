@@ -6,8 +6,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/source/class/class_crawl.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/source/module/forum/forum_test.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/analysis.php" afterPath="$PROJECT_DIR$/crawl/analysis.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/analysis_456zy.php" afterPath="$PROJECT_DIR$/crawl/analysis_456zy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl/dblog.txt" afterPath="$PROJECT_DIR$/crawl/dblog.txt" />
     </list>
     <ignored path="chunse.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,7 +50,7 @@
       <file leaf-file-name="analysis_456zy.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crawl/analysis_456zy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="37" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.6674877">
+            <state line="30" column="19" selection-start="552" selection-end="552" vertical-scroll-proportion="0.44581282">
               <folding>
                 <element signature="e#6#159#0" expanded="true" />
               </folding>
@@ -535,7 +535,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crawl/analysis_456zy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="37" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.6674877">
+        <state line="30" column="19" selection-start="552" selection-end="552" vertical-scroll-proportion="0.44581282">
           <folding>
             <element signature="e#6#159#0" expanded="true" />
           </folding>
